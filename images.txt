@@ -1,1 +1,1 @@
-docker pull moveit/moveit:noetic-release
+moveit/moveit:noetic-release
