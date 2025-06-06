@@ -1,1 +1,1 @@
-moveit/moveit:noetic-release
+osrf/ros:humble-desktop
